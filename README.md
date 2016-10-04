@@ -46,7 +46,7 @@ By default this CustomTextView using font Lato Light
 
 Open this tutorial to learn how to create an android library in simple way
 
-`https://medium.com/@ocittwo/yuk-buat-library-android-8ed01a329856`
+https://medium.com/@ocittwo/yuk-buat-library-android-8ed01a329856
 
 
 LICENCE
