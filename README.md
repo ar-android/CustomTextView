@@ -37,6 +37,8 @@ dependencies {
 ```xml
 <string name="lobster_regular">fonts/Lobster-Regular.ttf</string>
 ```
+By default this CustomTextView using font Lato Light
+
 ## Don't forget to add font in your asset folder
 
 ![alt tag](https://cdn-images-1.medium.com/max/600/1*vU3goucPlj6T9JTI4ybKUw.png)
