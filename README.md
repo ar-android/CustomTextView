@@ -21,7 +21,7 @@ allprojects {
 Add dependencies :
 ```gradle
 dependencies {
-     compile 'com.github.ar-android:PercentView:1.0'
+     compile 'com.github.ar-android:CustomTextView:1.0.0'
 }
 ```
 
